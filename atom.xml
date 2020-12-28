@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://blog.qizhiqiang.com</id>
+    <title>志强博客</title>
+    <updated>2020-12-28T17:59:47.787Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://blog.qizhiqiang.com"/>
+    <link rel="self" href="https://blog.qizhiqiang.com/atom.xml"/>
+    <subtitle>志强的博客主页</subtitle>
+    <logo>https://blog.qizhiqiang.com/images/avatar.png</logo>
+    <icon>https://blog.qizhiqiang.com/favicon.ico</icon>
+    <rights>All rights reserved 2020, 志强博客</rights>
+    <entry>
+        <title type="html"><![CDATA[6盘，完爆迅雷&百度云的下载体验]]></title>
+        <id>https://blog.qizhiqiang.com/post/6pan/</id>
+        <link href="https://blog.qizhiqiang.com/post/6pan/">
+        </link>
+        <updated>2020-12-28T16:47:07.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>有幸用到一款下载工具，6盘。<br>
+溢美之词已不足以表达我对它的喜爱。<br>
+简而言之，价格实惠，体验极佳。</p>
+</blockquote>
+]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>有幸用到一款下载工具，6盘。<br>
+溢美之词已不足以表达我对它的喜爱。<br>
+简而言之，价格实惠，体验极佳。</p>
+</blockquote>
+<!-- more -->
+<h2 id="别被外表迷惑">别被外表迷惑</h2>
+<ul>
+<li><a href="https://6pan.cn/">访问6盘官网</a></li>
+<li><a href="https://2dland.cn/">访问6盘登录注册页</a> 可能换地址，官网找</li>
+<li>官网截图我就不放了，因为随时可能更新</li>
+<li>6盘的官网就像一个小学生写的网页一般，丑到没朋友</li>
+<li>请相信，这只是外表</li>
+<li>如果用过，就会爱上</li>
+<li>官网随意注册个账号</li>
+</ul>
+<h2 id="6盘小白羊">6盘小白羊</h2>
+<blockquote>
+<p><a href="https://github.com/liupan1890/xiaobaiyang2">访问GitHub下载页</a><br>
+据说是某网友嫌弃6盘网页版太丑写的<br>
+没错，大家相信就好<br>
+作者的安装包会传到蓝奏云，下载最新版解压使用就行</p>
+</blockquote>
+<h2 id="小白羊客户端22版本">小白羊客户端2.2版本</h2>
+<figure data-type="image" tabindex="1"><img src="https://qizq-blog.oss-cn-beijing.aliyuncs.com/qizhiqiang.com/blog/img/2020/2020-12/6pan-xiaobaiyang.jpg" alt="小白羊客户端" loading="lazy"></figure>
+<h3 id="使用教程">使用教程</h3>
+<ol>
+<li>登录</li>
+<li>如果可以登录的话，去官网买个10块钱的月会员</li>
+<li>找到你<span style="color:red;">magnet:?xt=urn:btih:</span>开头的学习资源下载链接</li>
+<li>点开<span style="color:red;">新建离线下载 </span></li>
+<li>复制链接进去，支持的链接种类不少，可能会变多，也可能被屏蔽<span style="color:red;">(比如百度云的链接)</span><br>
+<img src="https://qizq-blog.oss-cn-beijing.aliyuncs.com/qizhiqiang.com/blog/img/2020/2020-12/6pan-%E5%B0%8F%E7%99%BD%E7%BE%8A-%E8%BE%93%E5%85%A5%E4%B8%8B%E8%BD%BD%E9%93%BE%E6%8E%A5.jpg" alt="小白羊客户端-BT下载链接" loading="lazy"></li>
+<li>点击<span style="color:red;">格式化&amp;预解析</span></li>
+<li>我这里放了一个测试链接，成功解析提交即可<br>
+<img src="https://qizq-blog.oss-cn-beijing.aliyuncs.com/qizhiqiang.com/blog/img/2020/2020-12/6pan-%E5%B0%8F%E7%99%BD%E7%BE%8A-%E9%93%BE%E6%8E%A5%E8%A7%A3%E6%9E%90%E6%88%90%E5%8A%9F.jpg" alt="小白羊客户端-BT下载成功解析" loading="lazy"></li>
+<li>这个文件大约耗时半分钟就离线完了</li>
+<li>进入根目录找到文件，点击选上后复制下载链接<br>
+<img src="https://qizq-blog.oss-cn-beijing.aliyuncs.com/qizhiqiang.com/blog/img/2020/2020-12/6pan-%E5%B0%8F%E7%99%BD%E7%BE%8A-%E5%A4%8D%E5%88%B6%E4%B8%8B%E8%BD%BD%E9%93%BE%E6%8E%A5.jpg" alt="小白羊客户端-复制下载链接" loading="lazy"></li>
+</ol>
+<h2 id="复制链接到chrome浏览器">复制链接到Chrome浏览器</h2>
+<blockquote>
+<p>我个人是比较喜欢Chrome浏览器的整洁高效的<br>
+所谓的360，搜狗，QQ之类的高速浏览器不过是在Chrome内核的基础上加了一堆插件和广告<br>
+当然，国产浏览器在某些方面确实照顾国人使用习惯，人各有爱，我也不过多评价<br>
+直接在地址栏复制链接然后回车，弹出IDM下载器<br>
+<img src="https://qizq-blog.oss-cn-beijing.aliyuncs.com/qizhiqiang.com/blog/img/2020/2020-12/IDM%E4%B8%8B%E8%BD%BD%E7%95%8C%E9%9D%A2.jpg" alt="IDM下载界面" loading="lazy"></p>
+</blockquote>
+<h2 id="感受一下不限速的快乐600mb宽带直接拉满">感受一下不限速的快乐,600Mb宽带直接拉满</h2>
+<figure data-type="image" tabindex="2"><img src="https://qizq-blog.oss-cn-beijing.aliyuncs.com/qizhiqiang.com/blog/img/2020/2020-12/IDM%E8%B6%85%E9%80%9F%E4%B8%8B%E8%BD%BD.jpg" alt="IDM超光速下载" loading="lazy"></figure>
+<h2 id="如果你不知道idm是什么">如果你不知道IDM是什么</h2>
+<p>请访问<a href="https://blog.qizhiqiang.com/post/IDM-v6.38.10.2/">IDM下载器</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用Github制作个人博客主页]]></title>
+        <id>https://blog.qizhiqiang.com/post/GetGithub/</id>
+        <link href="https://blog.qizhiqiang.com/post/GetGithub/">
+        </link>
+        <updated>2020-12-28T09:57:39.000Z</updated>
+        <summary type="html"><![CDATA[<p>Github是一个免费的代码托管平台，适用于大多数刚刚踏入代码界门槛的新手程序员（像我一样的），对于我而言，可能我没事闲的写的绝大多数程序代码都是不具备给别人用或者出售盈利的。就算是给我自己用，也需要借助服务器发布才能访问，Github就可以作为轻量级的小服务器测试使用。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>Github是一个免费的代码托管平台，适用于大多数刚刚踏入代码界门槛的新手程序员（像我一样的），对于我而言，可能我没事闲的写的绝大多数程序代码都是不具备给别人用或者出售盈利的。就算是给我自己用，也需要借助服务器发布才能访问，Github就可以作为轻量级的小服务器测试使用。</p>
+<!-- more -->
+<h2 id="注册github">注册Github</h2>
+<ol>
+<li>访问<a href="https://github.com/">Github官网</a></li>
+<li>点击右上角 <span style="display:inline;color:#ffffff; background:red; border-radius:5px; padding:4px 10px; margin-right:4px">Sign in</span><br>
+<img src="https://cdn.qizhiqiang.com/qizhiqiang.com/blog/img/www.github.com.jpg" alt="Github官网" loading="lazy"></li>
+<li>注册Github账号<br>
+<img src="https://qizq-blog.oss-cn-beijing.aliyuncs.com/qizhiqiang.com/blog/img/%E6%B3%A8%E5%86%8CGithub.jpg" alt="注册Github" loading="lazy"></li>
+<li>注册用QQ邮箱或者163邮箱就行，密码需要大写字母+小写字母，比如Qq.123456<br>
+<span style="font-size:20px;display:inline;color:#ffffff; background:red; border-radius:5px; padding:4px 10px; margin-right:4px">PS：注册完需要去邮箱点一下链接进行验证</span></li>
+</ol>
+<h2 id="使用github搭建个人博客主页">使用Github搭建个人博客主页</h2>
+<h3 id="create-a-new-repository-创建一个新项目库">Create a new repository  创建一个新项目库</h3>
+<ol>
+<li>创建个人Github Pages页面的项目名是固定的，你的注册名.github.io</li>
+<li>仓库选择Public公共（免费无限制），反正你的博客也是给人家随便看的</li>
+<li>勾选Add a RADEME file，这是创建一个项目说明文件使项目初始化</li>
+<li>拉到下面Creat创建就行了<br>
+<img src="https://qizq-blog.oss-cn-beijing.aliyuncs.com/qizhiqiang.com/blog/img/%E5%88%9B%E5%BB%BAGithub%E9%A1%B9%E7%9B%AE.jpg" alt="创建Github项目" loading="lazy"></li>
+</ol>
+<h2 id="生成你的博客主页">生成你的博客主页</h2>
+<ul>
+<li>会搞代码的自己去网上扒个模板下来改改也行</li>
+<li>不会搞代码的就用<a href="https://hexo.io/">Hexo</a>，<a href="https://gridea.dev/">Gridea</a>，<a href="https://www.typora.io/">Typora</a>这些MD编辑器</li>
+<li>个人推荐博客用<a href="https://gridea.dev/">Gridea</a>做基础架构</li>
+<li>偶尔写文用<a href="https://www.typora.io/">Typora</a>，然后复制到Gridea就行</li>
+<li><a href="https://hexo.io/">Hexo</a>部署还是需要一定的基本功</li>
+<li><a href="https://gridea.dev/">Gridea</a>的界面不算负责，我大概几分钟就玩了大部分功能</li>
+<li>这种是静态博客搭建，如果需要帮助，可以去我的<a href="https://nas.qizhiqiang.com:12345/?page_id=2">动态博客留言</a></li>
+</ul>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[下载神器-IDM v6.38.10.2破解版]]></title>
+        <id>https://blog.qizhiqiang.com/post/IDM-v6.38.10.2/</id>
+        <link href="https://blog.qizhiqiang.com/post/IDM-v6.38.10.2/">
+        </link>
+        <updated>2020-12-27T18:38:13.000Z</updated>
+        <summary type="html"><![CDATA[<p>💻IDM 全名Internet Download Manager，是一款国外的多线程下载神器。<br>
+😏支持大部分互联网文件下载（http开头的链接）<br>
+😫不支持ed2k，magnet:?xt开头的p2p链接</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>💻IDM 全名Internet Download Manager，是一款国外的多线程下载神器。<br>
+😏支持大部分互联网文件下载（http开头的链接）<br>
+😫不支持ed2k，magnet:?xt开头的p2p链接</p>
+<!-- more -->
+<h2 id="什么是多线程下载">什么是多线程下载</h2>
+<p>举个最简单的例子，百度网盘非会员下载速度最高只有几十KB/s，把下载链接复制到IDM，IDM可以模拟多个人同时向百度请求下载这个文件，每个线程下载这个文件的起始点不同，多个线程分段下载，百度给每个线程的限速都是几十KB/s，整体速度就提高到了1-2MB/s，所有线程的任务下载完成后，IDM花几秒钟将所有线程下载的文件整合，这就使你整个下载过程和时间缩短了几十倍。</p>
+<h2 id="为什么要用破解版">为什么要用破解版</h2>
+<p>其实并非不是买不起正版，作为测试工程师，我本身也算高薪职业，对于一些必备或喜欢的软件花个一两百块的会员费我还是掏得起，百度云和迅雷这些常用的软件我都是超级会员包年，下附图片证明</p>
+<ul>
+<li>IDM是限制机器码而非账号登录</li>
+<li>我一搞电脑的，手里几十台电脑总不能买几千块的秘钥吧？</li>
+</ul>
+<h2 id="idm报价">IDM报价</h2>
+<figure data-type="image" tabindex="1"><img src="https://cdn.qizhiqiang.com/qizhiqiang.com/blog/img/1609089550075.png" alt="IDM报价" loading="lazy"></figure>
+<h2 id="百度网盘svip5级续费到2022年1月">百度网盘SVIP5级续费到2022年1月</h2>
+<figure data-type="image" tabindex="2"><img src="https://cdn.qizhiqiang.com/qizhiqiang.com/blog/img/1609090872206.png" alt="百度网盘SVIP5级续费到2022年1月" loading="lazy"></figure>
+<h2 id="迅雷下载svip5级续费到2022年5月">迅雷下载SVIP5级续费到2022年5月</h2>
+<figure data-type="image" tabindex="3"><img src="https://cdn.qizhiqiang.com/qizhiqiang.com/blog/img/1609091095753.png" alt="迅雷下载SVIP5级续费到2022年5月" loading="lazy"></figure>
+<h2 id="把我带宽拉满的idm下载器">把我带宽拉满的IDM下载器</h2>
+<figure data-type="image" tabindex="4"><img src="https://qizq-blog.oss-cn-beijing.aliyuncs.com/qizhiqiang.com/blog/img/2020/2020-12/IDM%E8%B6%85%E9%80%9F%E4%B8%8B%E8%BD%BD.jpg" alt="IDM超光速下载" loading="lazy"></figure>
+<h2 id="下载地址">下载地址</h2>
+<p><a href="https://cdn.qizhiqiang.com/qizhiqiang.com/blog/share/software/IDM.v6.38.10.2.exe">本地下载</a><br>
+<a href="https://pan.baidu.com/s/14g_L6LuOX7qHXV6pdCBOfw">百度网盘</a> 提取码1234</p>
+]]></content>
+    </entry>
+</feed>
