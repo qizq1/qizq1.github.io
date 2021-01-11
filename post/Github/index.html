@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" >
+
+<title>用Github制作个人博客主页 | 志强博客</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+<link rel="stylesheet" href="https://cdn.qizhiqiang.com/qizhiqiang.com/blog/fontawesome-v5.11.2/css/all.css">
+<link rel="shortcut icon" href="https://blog.qizhiqiang.com/favicon.ico?v=1610365190049">
+<link rel="stylesheet" href="https://blog.qizhiqiang.com/styles/main.css">
+
+
+
+<link rel="stylesheet" href="https://qizq-blog.oss-cn-beijing.aliyuncs.com/qizhiqiang.com/blog/server/aos.css" />
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+
+
+
+    <meta name="description" content="Github是一个免费的代码托管平台，适用于大多数刚刚踏入代码界门槛的新手程序员（像我一样的），对于我而言，可能我没事闲的写的绝大多数程序代码都是不具备给别人用或者出售盈利的。就算是给我自己用，也需要借助服务器发布才能访问，Github就可..." />
+    <meta name="keywords" content="教程" />
+  </head>
+  <body>
+    <div id="app" class="main">
+
+      <div class="sidebar" :class="{ 'full-height': menuVisible }">
+  <div class="top-container" data-aos="fade-right">
+    <div class="top-header-container">
+      <a class="site-title-container" href="https://blog.qizhiqiang.com">
+        <img src="https://blog.qizhiqiang.com/images/avatar.png?v=1610365190049" class="site-logo">
+        <h1 class="site-title">志强博客</h1>
+      </a>
+      <div class="menu-btn" @click="menuVisible = !menuVisible">
+        <div class="line"></div>
+      </div>
+    </div>
+    <div>
+      
+        
+          <a href="https://blog.qizhiqiang.com" class="site-nav">
+            首页
+          </a>
+        
+      
+        
+          <a href="https://blog.qizhiqiang.com/archives" class="site-nav">
+            归档
+          </a>
+        
+      
+        
+          <a href="https://blog.qizhiqiang.com/tags" class="site-nav">
+            标签
+          </a>
+        
+      
+        
+          <a href="https://blog.qizhiqiang.com/post/about" class="site-nav">
+            关于
+          </a>
+        
+      
+        
+          <a href="https://blog.qizhiqiang.com/tag/vqMf1hoeGi/" class="site-nav">
+            软件
+          </a>
+        
+      
+    </div>
+  </div>
+  <div class="bottom-container" data-aos="flip-up" data-aos-offset="0">
+    <div class="social-container">
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    </div>
+    <div class="site-description">
+      志强的博客主页
+    </div>
+    <div class="site-footer">
+      Powered by <a href="https://blog.qizhiqiang.com" target="_blank">志强Blog</a> | <a class="rss" href="https://blog.qizhiqiang.com/atom.xml" target="_blank">RSS</a>
+    </div>
+  </div>
+</div>
+
+
+      <div class="main-container">
+        <div class="content-container" data-aos="fade-up">
+          <div class="post-detail">
+            <h2 class="post-title">用Github制作个人博客主页</h2>
+            <div class="post-date">2020-12-28</div>
+            
+              <div class="feature-container" style="background-image: url('https://qizq-blog.oss-cn-beijing.aliyuncs.com/qizhiqiang.com/blog/img/2020/Github/Github.jpg')">
+              </div>
+            
+            <div class="post-content" v-pre>
+              <p>Github是一个免费的代码托管平台，适用于大多数刚刚踏入代码界门槛的新手程序员（像我一样的），对于我而言，可能我没事闲的写的绝大多数程序代码都是不具备给别人用或者出售盈利的。就算是给我自己用，也需要借助服务器发布才能访问，Github就可以作为轻量级的小服务器测试使用。</p>
+<!-- more -->
+<h2 id="注册github">注册Github</h2>
+<ol>
+<li>访问<a href="https://github.com/">Github官网</a></li>
+<li>点击右上角 <span style="display:inline;color:#ffffff; background:red; border-radius:5px; padding:4px 10px; margin-right:4px">Sign in</span><br>
+<img src="https://qizq-blog.oss-cn-beijing.aliyuncs.com/qizhiqiang.com/blog/img/2020/Github/Github-HomePage.jpg" alt="Github官网" loading="lazy"></li>
+<li>注册Github账号<br>
+<img src="https://qizq-blog.oss-cn-beijing.aliyuncs.com/qizhiqiang.com/blog/img/2020/Github/Github-CreateUser.jpg" alt="注册Github" loading="lazy"></li>
+<li>注册用QQ邮箱或者163邮箱就行，密码需要大写字母+小写字母，比如Qq.123456<br>
+<span style="font-size:20px;display:inline;color:#ffffff; background:red; border-radius:5px; padding:4px 10px; margin-right:4px">PS：注册完需要去邮箱点一下链接进行验证</span></li>
+</ol>
+<h2 id="使用github搭建个人博客主页">使用Github搭建个人博客主页</h2>
+<h3 id="create-a-new-repository-创建一个新项目库">Create a new repository  创建一个新项目库</h3>
+<ol>
+<li>创建个人Github Pages页面的项目名是固定的，你的注册名.github.io</li>
+<li>仓库选择Public公共（免费无限制），反正你的博客也是给人家随便看的</li>
+<li>勾选Add a RADEME file，这是创建一个项目说明文件使项目初始化</li>
+<li>拉到下面Creat创建就行了<br>
+<img src="https://qizq-blog.oss-cn-beijing.aliyuncs.com/qizhiqiang.com/blog/img/2020/Github/Github-CreateProject.jpg" alt="创建Github项目" loading="lazy"></li>
+</ol>
+<h2 id="生成你的博客主页">生成你的博客主页</h2>
+<ul>
+<li>会搞代码的自己去网上扒个模板下来改改也行</li>
+<li>不会搞代码的就用<a href="https://hexo.io/">Hexo</a>，<a href="https://gridea.dev/">Gridea</a>，<a href="https://www.typora.io/">Typora</a>这些MD编辑器</li>
+<li>个人推荐博客用<a href="https://gridea.dev/">Gridea</a>做基础架构</li>
+<li>偶尔写文用<a href="https://www.typora.io/">Typora</a>，然后复制到Gridea就行</li>
+<li><a href="https://hexo.io/">Hexo</a>部署还是需要一定的基本功</li>
+<li><a href="https://gridea.dev/">Gridea</a>的界面不算负责，我大概几分钟就玩了大部分功能</li>
+<li>这种是静态博客搭建，如果需要帮助，可以去我的<a href="https://nas.qizhiqiang.com:12345/?page_id=2">动态博客留言</a></li>
+</ul>
+
+            </div>
+            
+              <div class="tag-container">
+                
+                  <a href="https://blog.qizhiqiang.com/tag/jiao-cheng/" class="tag">
+                    教程
+                  </a>
+                
+              </div>
+            
+            
+              <div class="next-post">
+                <div class="next">下一篇</div>
+                <a href="https://blog.qizhiqiang.com/post/IDM/">
+                  <h3 class="post-title">
+                    IDM，下载神器v6.38.10.2破解版
+                  </h3>
+                </a>
+              </div>
+            
+
+            
+
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <script src="https://qizq-blog.oss-cn-beijing.aliyuncs.com/qizhiqiang.com/blog/server/aos.js"></script>
+<script type="application/javascript">
+
+AOS.init();
+
+var app = new Vue({
+  el: '#app',
+  data: {
+    menuVisible: false,
+  },
+})
+
+</script>
+
+
+
+
+
+
+  </body>
+</html>
