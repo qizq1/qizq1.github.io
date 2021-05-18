@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.qizhiqiang.com</id>
     <title>志强博客</title>
-    <updated>2021-05-18T09:30:06.887Z</updated>
+    <updated>2021-05-18T10:10:04.614Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.qizhiqiang.com"/>
     <link rel="self" href="https://www.qizhiqiang.com/atom.xml"/>
-    <subtitle>志强的博客主页</subtitle>
+    <subtitle>&lt;a href=&quot;https://beian.miit.gov.cn/&quot;&gt;京ICP备19048435号-1&lt;/a&gt;</subtitle>
     <logo>https://www.qizhiqiang.com/images/avatar.png</logo>
     <icon>https://www.qizhiqiang.com/favicon.ico</icon>
     <rights>All rights reserved 2021, 志强博客</rights>
