@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.qizhiqiang.com</id>
     <title>志强博客</title>
-    <updated>2021-12-18T11:25:14.754Z</updated>
+    <updated>2021-12-18T12:28:05.100Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.qizhiqiang.com"/>
     <link rel="self" href="https://www.qizhiqiang.com/atom.xml"/>
@@ -10,6 +10,21 @@
     <logo>https://www.qizhiqiang.com/images/avatar.png</logo>
     <icon>https://www.qizhiqiang.com/favicon.ico</icon>
     <rights>All rights reserved 2021, 志强博客</rights>
+    <entry>
+        <title type="html"><![CDATA[Everything搜索]]></title>
+        <id>https://www.qizhiqiang.com/post/everything-sou-suo/</id>
+        <link href="https://www.qizhiqiang.com/post/everything-sou-suo/">
+        </link>
+        <updated>2021-12-18T11:39:49.000Z</updated>
+        <content type="html"><![CDATA[<p>Windows新机必装软件，Windows自带的资源管理器搜索拉胯的一批</p>
+<p>Everything可以用1秒钟从你电脑的几百G文件中搜出结果</p>
+<h4 id="地址">地址</h4>
+<p>本站下载不是最新版，建议去官网下载最新版</p>
+<p><a href="https://www.voidtools.com/zh-cn/">官网链接</a></p>
+<p><a href="https://pan.qizhiqiang.com:5213/s/GMt2">本站下载</a><br>
+<a href="https://cdn.qiniu.qizhiqiang.com/user1/swg749ue_Everything-1.4.1.1015.x64-Setup.exe">备用下载</a></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[高配机型英雄联盟吉格斯闪退]]></title>
         <id>https://www.qizhiqiang.com/post/gao-pei-ji-xing-ying-xiong-lian-meng-ji-ge-si-shan-tui/</id>
