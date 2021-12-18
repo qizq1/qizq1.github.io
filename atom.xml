@@ -1,134 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://blog.qizhiqiang.com</id>
+    <id>https://www.qizhiqiang.com</id>
     <title>志强博客</title>
-    <updated>2021-01-11T12:10:19.490Z</updated>
+    <updated>2021-12-18T11:05:21.667Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://blog.qizhiqiang.com"/>
-    <link rel="self" href="https://blog.qizhiqiang.com/atom.xml"/>
-    <subtitle>志强的博客主页</subtitle>
-    <logo>https://blog.qizhiqiang.com/images/avatar.png</logo>
-    <icon>https://blog.qizhiqiang.com/favicon.ico</icon>
+    <link rel="alternate" href="https://www.qizhiqiang.com"/>
+    <link rel="self" href="https://www.qizhiqiang.com/atom.xml"/>
+    <subtitle>&lt;a href=&quot;https://beian.miit.gov.cn/&quot;&gt;京ICP备19048435号-1&lt;/a&gt;</subtitle>
+    <logo>https://www.qizhiqiang.com/images/avatar.png</logo>
+    <icon>https://www.qizhiqiang.com/favicon.ico</icon>
     <rights>All rights reserved 2021, 志强博客</rights>
     <entry>
-        <title type="html"><![CDATA[Geek Uninstaller，更彻底的卸载]]></title>
-        <id>https://blog.qizhiqiang.com/post/geek-uninstaller/</id>
-        <link href="https://blog.qizhiqiang.com/post/geek-uninstaller/">
+        <title type="html"><![CDATA[高配机型英雄联盟吉格斯闪退]]></title>
+        <id>https://www.qizhiqiang.com/post/gao-pei-ji-xing-ying-xiong-lian-meng-ji-ge-si-shan-tui/</id>
+        <link href="https://www.qizhiqiang.com/post/gao-pei-ji-xing-ying-xiong-lian-meng-ji-ge-si-shan-tui/">
         </link>
-        <updated>2020-12-30T08:44:18.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p>卸载某些软件，最害怕卸载不干净，有残留<br>
-这个小工具可以在卸载程序后扫描电脑和注册表，清理干净<br>
-不要说某某管家也可以做到，那是给电脑小白用的<br>
-在行家眼里，他们本身就是垃圾</p>
-</blockquote>
+        <updated>2021-05-18T08:39:29.000Z</updated>
+        <summary type="html"><![CDATA[<p>新配的电脑打联盟进游戏就闪退，网上找了不少教程都是说什么性能不够。2080性能不够个锤子？？？</p>
+<p>整体配置绝对稳压市面99%的游戏，毕竟是自己花2W多DIY的机器</p>
 ]]></summary>
-        <content type="html"><![CDATA[<blockquote>
-<p>卸载某些软件，最害怕卸载不干净，有残留<br>
-这个小工具可以在卸载程序后扫描电脑和注册表，清理干净<br>
-不要说某某管家也可以做到，那是给电脑小白用的<br>
-在行家眼里，他们本身就是垃圾</p>
-</blockquote>
+        <content type="html"><![CDATA[<p>新配的电脑打联盟进游戏就闪退，网上找了不少教程都是说什么性能不够。2080性能不够个锤子？？？</p>
+<p>整体配置绝对稳压市面99%的游戏，毕竟是自己花2W多DIY的机器</p>
 <!-- more -->
-<blockquote>
-<p>##下载地址<br>
-<a href="https://geekuninstaller.com/download">GeekUninstaller官网</a><br>
-<a href="https://qizq-blog.oss-cn-beijing.aliyuncs.com/qizhiqiang.com/blog/share/software/Uninstalltool.exe">免费版本地下载</a><br>
-<a href="https://qizq-blog.oss-cn-beijing.aliyuncs.com/qizhiqiang.com/blog/share/software/Uninstalltool_Pro.exe">专业版本地下载</a></p>
-</blockquote>
-<h2 id="彻底干掉程序-包括windows自带的">彻底干掉程序-包括Windows自带的</h2>
-<figure data-type="image" tabindex="1"><img src="https://qizq-blog.oss-cn-beijing.aliyuncs.com/qizhiqiang.com/blog/img/2020/Geek/GeekUninstaller-Test-delete.jpg" alt="删除程序" loading="lazy"></figure>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IObit Unlocker，解除文件占用]]></title>
-        <id>https://blog.qizhiqiang.com/post/IObitunlocker/</id>
-        <link href="https://blog.qizhiqiang.com/post/IObitunlocker/">
-        </link>
-        <updated>2020-12-29T10:15:32.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p>相信你一定碰到过类似的情况<br>
-无法删除此文件夹，正在被某个程序占用<br>
-无法弹出USB储存设备，正在被某个程序占用<br>
-此时的你是否束手无策，心情暴躁？<br>
-这个小小的工具，解决你的烦恼</p>
-</blockquote>
-]]></summary>
-        <content type="html"><![CDATA[<blockquote>
-<p>相信你一定碰到过类似的情况<br>
-无法删除此文件夹，正在被某个程序占用<br>
-无法弹出USB储存设备，正在被某个程序占用<br>
-此时的你是否束手无策，心情暴躁？<br>
-这个小小的工具，解决你的烦恼</p>
-</blockquote>
-<!-- more -->
-<h2 id="下载链接">下载链接</h2>
-<blockquote>
-<p><a href="https://qizq-blog.oss-cn-beijing.aliyuncs.com/qizhiqiang.com/blog/share/software/IObitUnlocker.exe">本地下载</a></p>
-</blockquote>
-<h2 id="使用方法">使用方法</h2>
-<blockquote>
-<h3 id="下载安装之后鼠标右键点击文件文件夹移动储存设备">下载安装之后鼠标右键点击【文件/文件夹/移动储存设备】</h3>
-<figure data-type="image" tabindex="1"><img src="https://qizq-blog.oss-cn-beijing.aliyuncs.com/qizhiqiang.com/blog/img/2020/IObitUnlocker/IObitUnlocker-Use.png" alt="如何使用" loading="lazy"></figure>
-<h3 id="如果被某程序占用会显示为锁定状态点击解锁即可">如果被某程序占用，会显示为锁定状态，点击解锁即可</h3>
-<p><img src="https://qizq-blog.oss-cn-beijing.aliyuncs.com/qizhiqiang.com/blog/img/2020/IObitUnlocker/IObitUnlocer-Ulock.jpg" alt="解锁" loading="lazy"><br>
-<span style="color:red;font-size:22px">注意：对于Word，Excel，PPT等文档。解锁前要检查是否已保存</span></p>
-</blockquote>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chrome，最快的浏览器]]></title>
-        <id>https://blog.qizhiqiang.com/post/chrome/</id>
-        <link href="https://blog.qizhiqiang.com/post/chrome/">
-        </link>
-        <updated>2020-12-29T07:38:41.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p>浏览器一定算的上是电脑必装的东西(毕竟IE不算浏览器)<br>
-如同FireFox(火狐浏览器)因最安全而备受程序员青睐<br>
-那Chrome(谷歌浏览器)的快速高效，就能给所有人最好的网络体验</p>
-</blockquote>
-]]></summary>
-        <content type="html"><![CDATA[<blockquote>
-<p>浏览器一定算的上是电脑必装的东西(毕竟IE不算浏览器)<br>
-如同FireFox(火狐浏览器)因最安全而备受程序员青睐<br>
-那Chrome(谷歌浏览器)的快速高效，就能给所有人最好的网络体验</p>
-</blockquote>
-<!-- more -->
-<h2 id="下载地址">下载地址</h2>
-<p><a href="https://www.firefox.com.cn/">FireFox下载地址</a><br>
-<a href="https://www.google.cn/chrome/">Chrome下载地址</a></p>
-<h2 id="chrome浏览器的设置">Chrome浏览器的设置</h2>
-<blockquote>
-<h2 id="繁体字问题下载网页为繁体安装后是繁体字的问题">繁体字问题(下载网页为繁体，安装后是繁体字的问题)</h2>
-<p><img src="https://qizq-blog.oss-cn-beijing.aliyuncs.com/qizhiqiang.com/blog/img/2020/Chrome/Chrome-Chinese-TW.jpg" alt="Chrome-繁体字" loading="lazy"><br>
-只需要将网页拉到最下方，右下角的语言更改为<span style="color:red">中国-中国</span>即可<br>
-<img src="https://qizq-blog.oss-cn-beijing.aliyuncs.com/qizhiqiang.com/blog/img/2020/Chrome/Chrome-Chinese-China.jpg" alt="Chrome-简体字" loading="lazy"><br>
-如已经下载，可以在右上角点开<span style="color:red">菜单-设置</span><br>
-在高级选项中添加语言-中文即可<br>
-<img src="https://qizq-blog.oss-cn-beijing.aliyuncs.com/qizhiqiang.com/blog/img/2020/Chrome/Chrome-add-Chinese-China.png" alt="Chrome-添加简体" loading="lazy"></p>
-</blockquote>
-<blockquote>
-<h2 id="主页设置">主页设置</h2>
-<p>百度，搜狗，360应该是大家常用的三个搜索引擎，可以直接设置在地址栏<br>
-输入网址正常访问，输入字符可以直接搜索<br>
-有人喜欢设置hao123之类的作为主页，选择打开特定网页然后设置就行<br>
-<img src="https://qizq-blog.oss-cn-beijing.aliyuncs.com/qizhiqiang.com/blog/img/2020/Chrome/Chrome-set-homepage.jpg" alt="Chrome-主页设置" loading="lazy"></p>
-</blockquote>
-<h2 id="关于其他浏览器">关于其他浏览器</h2>
-<blockquote>
-<p>我个人是比较喜欢Chrome浏览器的整洁高效的<br>
-由于Chrome内核Webkit的开源性质，所以不少浏览器的内核都是Webkit<br>
-所以大家耳熟能详的360，搜狗，QQ之类的高速浏览器<br>
-不过是在Chrome内核的基础上加了一堆插件和广告<br>
-当然，国产浏览器在某些方面确实适用于国人的使用习惯<br>
-萝卜青菜，各有所爱，我也不过多评价</p>
-</blockquote>
+<p>很大几率通过下面的方法解决问题</p>
+<p>桌面点鼠标右键选【NVIDIA控制面板】<br>
+配置 Surround、PhysX<br>
+PhysX配置改为独立显卡就行了<br>
+原理八成是处理器跟显卡有兼容性问题，所以把游戏交给显卡自己处理就行了，别让处理器参合<br>
+<img src="https://cdn.qizhiqiang.com/CDNServer/WordPress/wp-content/uploads/2021/03/image-5.png" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[7-zip，干净小巧的解压缩工具]]></title>
-        <id>https://blog.qizhiqiang.com/post/7-zip/</id>
-        <link href="https://blog.qizhiqiang.com/post/7-zip/">
+        <id>https://www.qizhiqiang.com/post/7-zip/</id>
+        <link href="https://www.qizhiqiang.com/post/7-zip/">
         </link>
         <updated>2020-12-29T06:07:33.000Z</updated>
         <summary type="html"><![CDATA[<blockquote>
@@ -184,79 +89,9 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[6盘，完爆迅雷&百度云的下载体验]]></title>
-        <id>https://blog.qizhiqiang.com/post/6pan/</id>
-        <link href="https://blog.qizhiqiang.com/post/6pan/">
-        </link>
-        <updated>2020-12-28T16:47:07.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p>有幸用到一款下载工具，6盘。<br>
-溢美之词已不足以表达我对它的喜爱。<br>
-简而言之，价格实惠，体验极佳。</p>
-</blockquote>
-]]></summary>
-        <content type="html"><![CDATA[<blockquote>
-<p>有幸用到一款下载工具，6盘。<br>
-溢美之词已不足以表达我对它的喜爱。<br>
-简而言之，价格实惠，体验极佳。</p>
-</blockquote>
-<!-- more -->
-<h2 id="别被外表迷惑">别被外表迷惑</h2>
-<ul>
-<li><a href="https://6pan.cn/">访问6盘官网</a></li>
-<li><a href="https://2dland.cn/">访问6盘登录注册页</a> 可能换地址，官网找</li>
-<li>官网截图我就不放了，因为随时可能更新</li>
-<li>6盘的官网就像一个小学生写的网页一般，丑到没朋友</li>
-<li>请相信，这只是外表</li>
-<li>如果用过，就会爱上</li>
-<li>官网随意注册个账号</li>
-</ul>
-<blockquote>
-<h2 id="6盘小白羊">6盘小白羊</h2>
-<p><a href="https://github.com/liupan1890/xiaobaiyang2">访问GitHub下载页</a><br>
-据说是某网友嫌弃6盘网页版太丑写的<br>
-作者的安装包会传到蓝奏云，下载最新版解压使用就行</p>
-<h2 id="小白羊客户端22版本">小白羊客户端2.2版本</h2>
-<figure data-type="image" tabindex="1"><img src="https://qizq-blog.oss-cn-beijing.aliyuncs.com/qizhiqiang.com/blog/img/2020/6pan/6pan-xiaobaiyang.jpg" alt="小白羊客户端" loading="lazy"></figure>
-</blockquote>
-<blockquote>
-<h3 id="使用教程">使用教程</h3>
-<ol>
-<li>登录</li>
-<li>如果可以登录的话，去官网买个10块钱的月会员</li>
-<li>找到你<span style="color:red;">magnet:?xt=urn:btih:</span>开头的学习资源下载链接</li>
-<li>点开<span style="color:red;">新建离线下载 </span></li>
-<li>复制链接进去，支持的链接种类不少，可能会变多，也可能被屏蔽<span style="color:red;">(比如百度云的链接)</span><br>
-<img src="https://qizq-blog.oss-cn-beijing.aliyuncs.com/qizhiqiang.com/blog/img/2020/6pan/6pan-xiaobaiyang-enterdownloadurl.jpg" alt="小白羊客户端-放入BT下载链接" loading="lazy"></li>
-<li>点击<span style="color:red;">格式化&amp;预解析</span></li>
-<li>我这里放了一个测试链接，成功解析提交即可<br>
-<img src="https://qizq-blog.oss-cn-beijing.aliyuncs.com/qizhiqiang.com/blog/img/2020/6pan/6pan-xiabaiyang-urlisok.jpg" alt="小白羊客户端-BT下载成功解析" loading="lazy"></li>
-<li>这个文件大约耗时半分钟就离线完了</li>
-<li>进入根目录找到文件，点击选上后复制下载链接<br>
-<img src="https://qizq-blog.oss-cn-beijing.aliyuncs.com/qizhiqiang.com/blog/img/2020/6pan/6pan-xiaobaiyang-copydownloadurl.jpg" alt="小白羊客户端-复制下载链接" loading="lazy"></li>
-</ol>
-</blockquote>
-<blockquote>
-<h2 id="复制链接到idm">复制链接到IDM</h2>
-<p><span style="color:red;font-size:25px">注意：</span><br>
-<span style="color:red;">关闭迅雷等自动捕捉下载链接的软件，因为链接只接受一次调用</span></p>
-</blockquote>
-<blockquote>
-<p>直接在左上角点<span style="color:red;">新建链接</span>复制链接然后回车，弹出IDM下载器<br>
-<img src="https://qizq-blog.oss-cn-beijing.aliyuncs.com/qizhiqiang.com/blog/img/2020/IDM/IDM-downloadUI.jpg" alt="IDM下载界面" loading="lazy"></p>
-<h2 id="感受一下不限速的快乐600mb宽带直接拉满">感受一下不限速的快乐,600Mb宽带直接拉满</h2>
-<figure data-type="image" tabindex="2"><img src="https://qizq-blog.oss-cn-beijing.aliyuncs.com/qizhiqiang.com/blog/img/2020/IDM/IDM-downloadspeed.jpg" alt="IDM超光速下载" loading="lazy"></figure>
-</blockquote>
-<blockquote>
-<h2 id="如果你不知道idm是什么">如果你不知道IDM是什么</h2>
-<p>请访问<a href="https://blog.qizhiqiang.com/post/IDM-v6.38.10.2/">IDM下载器</a></p>
-</blockquote>
-]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[用Github制作个人博客主页]]></title>
-        <id>https://blog.qizhiqiang.com/post/Github/</id>
-        <link href="https://blog.qizhiqiang.com/post/Github/">
+        <id>https://www.qizhiqiang.com/post/Github/</id>
+        <link href="https://www.qizhiqiang.com/post/Github/">
         </link>
         <updated>2020-12-28T09:57:39.000Z</updated>
         <summary type="html"><![CDATA[<p>Github是一个免费的代码托管平台，适用于大多数刚刚踏入代码界门槛的新手程序员（像我一样的），对于我而言，可能我没事闲的写的绝大多数程序代码都是不具备给别人用或者出售盈利的。就算是给我自己用，也需要借助服务器发布才能访问，Github就可以作为轻量级的小服务器测试使用。</p>
@@ -292,40 +127,6 @@
 <li><a href="https://gridea.dev/">Gridea</a>的界面不算负责，我大概几分钟就玩了大部分功能</li>
 <li>这种是静态博客搭建，如果需要帮助，可以去我的<a href="https://nas.qizhiqiang.com:12345/?page_id=2">动态博客留言</a></li>
 </ul>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IDM，下载神器v6.38.10.2破解版]]></title>
-        <id>https://blog.qizhiqiang.com/post/IDM/</id>
-        <link href="https://blog.qizhiqiang.com/post/IDM/">
-        </link>
-        <updated>2020-12-27T18:38:13.000Z</updated>
-        <summary type="html"><![CDATA[<p>💻IDM 全名Internet Download Manager，是一款国外的多线程下载神器。<br>
-😏支持大部分互联网文件下载（http开头的链接）<br>
-😫不支持ed2k，magnet:?xt开头的p2p链接</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>💻IDM 全名Internet Download Manager，是一款国外的多线程下载神器。<br>
-😏支持大部分互联网文件下载（http开头的链接）<br>
-😫不支持ed2k，magnet:?xt开头的p2p链接</p>
-<!-- more -->
-<h2 id="下载地址">下载地址</h2>
-<p><a href="https://cdn.qizhiqiang.com/qizhiqiang.com/blog/share/software/IDM.v6.38.10.2.exe">本地下载</a></p>
-<h2 id="什么是多线程下载">什么是多线程下载</h2>
-<p>举个最简单的例子，百度网盘非会员下载速度最高只有几十KB/s，把下载链接复制到IDM，IDM可以模拟多个人同时向百度请求下载这个文件，每个线程下载这个文件的起始点不同，多个线程分段下载，百度给每个线程的限速都是几十KB/s，整体速度就提高到了1-2MB/s，所有线程的任务下载完成后，IDM花几秒钟将所有线程下载的文件整合，这就使你整个下载过程和时间缩短了几十倍。</p>
-<h2 id="为什么要用破解版">为什么要用破解版</h2>
-<p>其实并非不是买不起正版，作为搞机的，对于一些必备或喜欢的软件花个一两百块的会员费我还是掏得起，百度云和迅雷这些常用的软件我都是超级会员包年，下附图片证明</p>
-<ul>
-<li>IDM是限制机器码而非账号登录</li>
-<li>我一搞电脑的，手里几十台电脑总不能买几千块的秘钥吧？</li>
-</ul>
-<h2 id="idm报价">IDM报价</h2>
-<figure data-type="image" tabindex="1"><img src="https://qizq-blog.oss-cn-beijing.aliyuncs.com/qizhiqiang.com/blog/img/2020/IDM/IDM-Buy.png" alt="IDM报价" loading="lazy"></figure>
-<h2 id="百度网盘svip5级续费到2022年1月">百度网盘SVIP5级续费到2022年1月</h2>
-<figure data-type="image" tabindex="2"><img src="https://qizq-blog.oss-cn-beijing.aliyuncs.com/qizhiqiang.com/blog/img/2020/IDM/baiduyun-SVIP5.png" alt="百度网盘SVIP5级续费到2022年1月" loading="lazy"></figure>
-<h2 id="迅雷下载svip5级续费到2022年5月">迅雷下载SVIP5级续费到2022年5月</h2>
-<figure data-type="image" tabindex="3"><img src="https://qizq-blog.oss-cn-beijing.aliyuncs.com/qizhiqiang.com/blog/img/2020/IDM/xunlei-SVIP5.png" alt="迅雷下载SVIP5级续费到2022年5月" loading="lazy"></figure>
-<h2 id="把我带宽拉满的idm下载器">把我带宽拉满的IDM下载器</h2>
-<figure data-type="image" tabindex="4"><img src="https://qizq-blog.oss-cn-beijing.aliyuncs.com/qizhiqiang.com/blog/img/2020/IDM/IDM-downloadspeed.jpg" alt="IDM超光速下载" loading="lazy"></figure>
 ]]></content>
     </entry>
 </feed>
